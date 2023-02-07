@@ -7,7 +7,7 @@ package org.lol.testTask.Task1;
  * «Москва, Санкт-Петербург, Воронеж.»
  */
 
-
+//5-10минут
 public class Main {
 
     public static void printArrStr(String[] str){

@@ -7,6 +7,7 @@ package org.lol.testTask.Task2;
  * 27 => 25, 27.8 => 30, 41.7 => 40.
  *
  */
+//5-10 минут
 public class Main {
 
     public static float fiveNumbers(float f){
