@@ -15,6 +15,7 @@ import java.util.Set;
  * [7, 17, 1, 9, 1, 17, 56, 56, 23], [56, 17, 17, 1, 23, 34, 23, 1, 8, 1]
  * На выходе [1, 17]
  */
+//20-30 минут
 public class Main {
 
     public static Object[] doubleNumberArr(int[] arr1, int[] arr2){
